@@ -4,7 +4,7 @@
         "http://iiif.io/api/presentation/3/context.json"
     ],
     "type": "Manifest",
-    "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest",
+    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest",
     "label": {
         "eng": [
             "Awesome Recording"
@@ -66,7 +66,7 @@
     "items": [
         {
             "type": "Canvas",
-            "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086",
             "label": {
                 "eng": [
                     "cd-12001_29.wav"
@@ -75,7 +75,7 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation_page/72a453f8-a535-4eeb-9fc1-49c0d0e6a402",
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation_page/72a453f8-a535-4eeb-9fc1-49c0d0e6a402",
                     "items": [
                         {
                             "type": "Annotation",
@@ -91,7 +91,7 @@
                                     ]
                                 }
                             },
-                            "target": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086"
+                            "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086"
                         }
                     ]
                 }
@@ -122,7 +122,7 @@
     ],
     "posterCanvas": {
         "type": "Canvas",
-        "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29",
+        "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29",
         "label": {
             "eng": [
                 "example.tif"
@@ -131,7 +131,7 @@
         "items": [
             {
                 "type": "AnnotationPage",
-                "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29/annotation_page/51c5383f-0f81-4a30-a11d-5aaef336966c",
+                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29/annotation_page/51c5383f-0f81-4a30-a11d-5aaef336966c",
                 "items": [
                     {
                         "type": "Annotation",
@@ -150,7 +150,7 @@
                                 }
                             ]
                         },
-                        "target": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29"
+                        "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/9b810fa4-2ea7-4f61-b790-d55374802e29"
                     }
                 ]
             }
@@ -173,7 +173,7 @@
     "structures": [
         {
             "type": "Range",
-            "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/range/r776e338b-9591-4990-ae12-aa66b35f4ac4",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/range/r776e338b-9591-4990-ae12-aa66b35f4ac4",
             "label": {
                 "eng": [
                     "cd-12001_29.wav"
@@ -183,7 +183,7 @@
             "items": [
                 {
                     "type": "Canvas",
-                    "id": "https://figgy-staging.princeton.edu/concern/scanned_resources/62209e26-03f4-4158-ad8a-4e5e45ed6fee/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44",
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/manifest/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44",
                     "label": [
                         "cd-12001_29.wav"
                     ]
