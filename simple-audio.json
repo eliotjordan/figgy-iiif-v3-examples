@@ -159,12 +159,7 @@
             "items": [
                 {
                     "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44",
-                    "label": {
-                        "eng": [
-                            "cd-12001_29.wav"
-                        ]
-                    }
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44"
                 }
             ]
         }
