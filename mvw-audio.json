@@ -1,0 +1,102 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@type": "sc:Collection",
+    "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/afb509eb-fa2e-4145-bc9f-e4b302d1fb3d/manifest",
+    "label": [
+        "Interview: Fitas / ERM, Tape 1-2 (A8)"
+    ],
+    "viewingHint": "multi-part",
+    "metadata": [
+        {
+            "label": "Date Created",
+            "value": [
+                "undated"
+            ]
+        },
+        {
+            "label": "Extent",
+            "value": [
+                "1 item"
+            ]
+        },
+        {
+            "label": "Identifier",
+            "value": [
+                "ark:/99999/fk4mk81d0x"
+            ]
+        },
+        {
+            "label": "Title",
+            "value": [
+                "Interview: Fitas / ERM, Tape 1-2 (A8)"
+            ]
+        },
+        {
+            "label": "Publisher",
+            "value": [
+                "Rodr\u00edguez Monegal, Em\u00edr"
+            ]
+        },
+        {
+            "label": "Container",
+            "value": [
+                "Box 22, Item 8"
+            ]
+        },
+        {
+            "label": "Embargo Date",
+            "value": [
+                ""
+            ]
+        }
+    ],
+    "manifests": [
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "sc:Manifest",
+            "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/2325ed52-bb0b-42a9-9fa5-42c7beb106a4/manifest",
+            "label": [
+                "Interview: Fitas / ERM, Tape 1 (A8)"
+            ],
+            "thumbnail": {
+                "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+                "service": {
+                    "@context": "http://iiif.io/api/image/2/context.json",
+                    "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
+                    "profile": "http://iiif.io/api/image/2/level2.json"
+                }
+            }
+        },
+        {
+            "@context": "http://iiif.io/api/presentation/2/context.json",
+            "@type": "sc:Manifest",
+            "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/de0e1831-aef6-432e-a973-711fafeec7b0/manifest",
+            "label": [
+                "Interview: Fitas / ERM, Tape 2 (A8)"
+            ]
+        }
+    ],
+    "seeAlso": [
+        {
+            "@id": "https://figgy-staging.princeton.edu/catalog/afb509eb-fa2e-4145-bc9f-e4b302d1fb3d.jsonld",
+            "format": "application/ld+json"
+        },
+        {
+            "@id": "https://findingaids.princeton.edu/catalog/C0652_c0383.xml",
+            "format": "text/xml"
+        }
+    ],
+    "license": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "thumbnail": {
+        "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+        "service": {
+            "@context": "http://iiif.io/api/image/2/context.json",
+            "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
+            "profile": "http://iiif.io/api/image/2/level2.json"
+        }
+    },
+    "rendering": {
+        "@id": "http://arks.princeton.edu/ark:/99999/fk4mk81d0x",
+        "format": "text/html"
+    }
+}
