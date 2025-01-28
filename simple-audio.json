@@ -72,7 +72,7 @@
                     "cd-12001_29.wav"
                 ]
             },
-            "placeholderCanvas": {
+            "accompanyingCanvas": {
                 "type": "Canvas",
                 "width": 200,
                 "height": 287,
@@ -84,6 +84,7 @@
                         "items": [
                             {
                                 "type": "Annotation",
+                                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1-image",
                                 "motivation": "painting",
                                 "body": {
                                     "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/36%2F3f%2F28%2F363f288b96d54e129faefb633f298522%2Fintermediate_file/full/1000,/0/default.jpg",
@@ -112,6 +113,7 @@
                     "items": [
                         {
                             "type": "Annotation",
+                            "id": " https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation/1",
                             "motivation": "painting",
                             "body": {
                                 "id": "https://figgy-staging.princeton.edu/downloads/bcb995ad-2321-46fc-bd4f-35ea18d15086/file/fa961987-6d20-40af-80b1-9eef5fc6a25b/stream.m3u8",
@@ -144,15 +146,6 @@
             "duration": 133.44
         }
     ],
-    "service": [
-        {
-            "@context": "http://universalviewer.io/context.json",
-            "profile": "http://universalviewer.io/ui-extensions-profile",
-            "disableUI": [
-                "mediaDownload"
-            ]
-        }
-    ],
     "structures": [
         {
             "type": "Range",
@@ -167,9 +160,11 @@
                 {
                     "type": "Canvas",
                     "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44",
-                    "label": [
-                        "cd-12001_29.wav"
-                    ]
+                    "label": {
+                        "eng": [
+                            "cd-12001_29.wav"
+                        ]
+                    }
                 }
             ]
         }
