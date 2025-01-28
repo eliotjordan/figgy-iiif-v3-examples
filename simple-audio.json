@@ -69,7 +69,7 @@
             "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086",
             "label": {
                 "eng": [
-                    "cd-12001_29.wav"
+                    "MOMENTITO.wav"
                 ]
             },
             "accompanyingCanvas": {
@@ -87,14 +87,14 @@
                                 "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1-image",
                                 "motivation": "painting",
                                 "body": {
-                                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/36%2F3f%2F28%2F363f288b96d54e129faefb633f298522%2Fintermediate_file/full/1000,/0/default.jpg",
+                                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/07%2F12%2F95%2F071295a5143a422680798164f962e399%2Fintermediate_file/full/1000,/0/default.jpg",
                                     "type": "Image",
                                     "height": 287,
                                     "width": 200,
                                     "format": "image/jpeg",
                                     "service": [
                                         {
-                                            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/36%2F3f%2F28%2F363f288b96d54e129faefb633f298522%2Fintermediate_file",
+                                            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/07%2F12%2F95%2F071295a5143a422680798164f962e399%2Fintermediate_file",
                                             "profile": "http://iiif.io/api/image/2/level2.json",
                                             "type": "ImageService2"
                                         }
@@ -116,13 +116,13 @@
                             "motivation": "painting",
                             "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation/1",
                             "body": {
-                                "id": "https://figgy-staging.princeton.edu/downloads/bcb995ad-2321-46fc-bd4f-35ea18d15086/file/fa961987-6d20-40af-80b1-9eef5fc6a25b/stream.m3u8",
+                                "id": "https://figgy-staging.princeton.edu/downloads/b1769abd-eeda-4676-b314-865a455f27dd/file/848e2041-2cf7-4a98-902f-76335dd0cf7f/stream.m3u8",
                                 "type": "Sound",
-                                "duration": 133.44,
+                                "duration": 107.651,
                                 "format": "application/vnd.apple.mpegurl",
                                 "label": {
                                     "eng": [
-                                        "cd-12001_29.wav"
+                                        "MOMENTITO.wav"
                                     ]
                                 }
                             },
@@ -133,7 +133,7 @@
             ],
             "rendering": [
                 {
-                    "id": "https://figgy-staging.princeton.edu/downloads/bcb995ad-2321-46fc-bd4f-35ea18d15086/file/40c86d22-58e0-43bf-8ca7-03fe661bb171",
+                    "id": "https://figgy-staging.princeton.edu/downloads/b1769abd-eeda-4676-b314-865a455f27dd/file/3a07f9f0-8e60-4352-9198-ea35a30e774c",
                     "format": "audio/x-wav",
                     "type": "Dataset",
                     "label": {
@@ -143,7 +143,7 @@
                     }
                 }
             ],
-            "duration": 133.44
+            "duration": 107.651
         }
     ],
     "structures": [
@@ -152,7 +152,7 @@
             "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/range/r776e338b-9591-4990-ae12-aa66b35f4ac4",
             "label": {
                 "eng": [
-                    "cd-12001_29.wav"
+                    "MOMENTITO.wav"
                 ]
             },
             "behavior": "top",
