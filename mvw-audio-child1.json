@@ -60,23 +60,6 @@
             }
         }
     ],
-    "rendering": [
-        {
-            "label": "Download as PDF",
-            "format": "application/pdf",
-            "id": "https://figgy-staging.princeton.edu/catalog/2325ed52-bb0b-42a9-9fa5-42c7beb106a4/pdf"
-        },
-        {
-            "id": "http://arks.princeton.edu/ark:/99999/fk4gt79k5c",
-            "format": "text/html",
-            "type": "Text",
-            "label": {
-                "en": [
-                    "View in catalog"
-                ]
-            }
-        }
-    ],
     "items": [
         {
             "type": "Canvas",

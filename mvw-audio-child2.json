@@ -63,18 +63,6 @@
             }
         }
     ],
-    "rendering": [
-        {
-            "id": "http://arks.princeton.edu/ark:/99999/fk4c26ks0g",
-            "format": "text/html",
-            "type": "Text",
-            "label": {
-                "en": [
-                    "View in catalog"
-                ]
-            }
-        }
-    ],
     "items": [
         {
             "type": "Canvas",

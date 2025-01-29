@@ -29,9 +29,10 @@ manifests
     ]
     ```
 1. posterCanvas
-  - posterCanvas is deprecated
-  - Audio
-    - an accompanyingCanvas property is located inside the soundfile Canvas
-  - Video
-    -
-1. 
+  - `posterCanvas` is deprecated
+  - an `accompanyingCanvas` property is located inside the soundfile Canvas
+  element
+  - can more or less copy `posterCanvas` as an `accompanyingCanvas`.
+  - no need for rendering proptery wihin accompanyingCanvas
+1. there is a root level `rendering` property for "Download as PDF". Not needed,
+   should be removed.
