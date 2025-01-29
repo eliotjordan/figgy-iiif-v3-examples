@@ -1,7 +1,8 @@
-### Validation errors encountered in Figgy generated IIIF Presentation V3
+## Validation errors encountered in Figgy generated IIIF Presentation V3
 manifests
 
 
+### Audio
 1. Logo
   - logo property in the root document is deprecated
   - logo is instead located in an Agent provider

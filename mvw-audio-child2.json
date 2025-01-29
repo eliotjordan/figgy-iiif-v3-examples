@@ -84,6 +84,56 @@
                     "addf8-Alaw-GW.wav"
                 ]
             },
+            "accompanyingCanvas": {
+                "type": "Canvas",
+                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964",
+                "label": {
+                    "eng": [
+                        "32101047382492_AssetFront.jpg"
+                    ]
+                },
+                "items": [
+                    {
+                        "type": "AnnotationPage",
+                        "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964/annotation_page/83eec73f-8480-4cf8-89b8-0df19ad9b1e2",
+                        "items": [
+                            {
+                                "type": "Annotation",
+                                "motivation": "painting",
+                                "body": {
+                                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/f2%2F52%2F75%2Ff2527525d95745ee997852686fa651e6%2Fintermediate_file/full/1000,/0/default.jpg",
+                                    "type": "Image",
+                                    "height": 1728,
+                                    "width": 2592,
+                                    "format": "image/jpeg",
+                                    "service": [
+                                        {
+                                            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/f2%2F52%2F75%2Ff2527525d95745ee997852686fa651e6%2Fintermediate_file",
+                                            "profile": "http://iiif.io/api/image/2/level2.json",
+                                            "type": "ImageService2"
+                                        }
+                                    ]
+                                },
+                                "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964"
+                            }
+                        ]
+                    }
+                ],
+                "rendering": [
+                    {
+                        "id": "https://figgy-staging.princeton.edu/downloads/3b7c6608-7aff-4166-994a-9b580d583964/file/127259af-0c3d-4ab4-89e5-60204ca6c4c6",
+                        "format": "image/jpeg",
+                        "type": "Dataset",
+                        "label": {
+                            "en": [
+                                "Download the original file"
+                            ]
+                        }
+                    }
+                ],
+                "width": 2592,
+                "height": 1728
+            },
             "items": [
                 {
                     "type": "AnnotationPage",
@@ -123,56 +173,6 @@
             "duration": 2.976
         }
     ],
-    "posterCanvas": {
-        "type": "Canvas",
-        "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964",
-        "label": {
-            "eng": [
-                "32101047382492_AssetFront.jpg"
-            ]
-        },
-        "items": [
-            {
-                "type": "AnnotationPage",
-                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964/annotation_page/83eec73f-8480-4cf8-89b8-0df19ad9b1e2",
-                "items": [
-                    {
-                        "type": "Annotation",
-                        "motivation": "painting",
-                        "body": {
-                            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/f2%2F52%2F75%2Ff2527525d95745ee997852686fa651e6%2Fintermediate_file/full/1000,/0/default.jpg",
-                            "type": "Image",
-                            "height": 1728,
-                            "width": 2592,
-                            "format": "image/jpeg",
-                            "service": [
-                                {
-                                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/f2%2F52%2F75%2Ff2527525d95745ee997852686fa651e6%2Fintermediate_file",
-                                    "profile": "http://iiif.io/api/image/2/level2.json",
-                                    "type": "ImageService2"
-                                }
-                            ]
-                        },
-                        "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/3b7c6608-7aff-4166-994a-9b580d583964"
-                    }
-                ]
-            }
-        ],
-        "rendering": [
-            {
-                "id": "https://figgy-staging.princeton.edu/downloads/3b7c6608-7aff-4166-994a-9b580d583964/file/127259af-0c3d-4ab4-89e5-60204ca6c4c6",
-                "format": "image/jpeg",
-                "type": "Dataset",
-                "label": {
-                    "en": [
-                        "Download the original file"
-                    ]
-                }
-            }
-        ],
-        "width": 2592,
-        "height": 1728
-    },
     "structures": [
         {
             "type": "Range",
