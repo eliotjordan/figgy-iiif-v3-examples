@@ -202,13 +202,24 @@
         }
     ],
     "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
-    "logo": [
+    "provider": [
         {
-            "id": "https://figgy-staging.princeton.edu/pul_logo_icon.png",
-            "type": "Image",
-            "format": "image/png",
-            "height": 100,
-            "width": 120
+            "id": "https://library.princeton.edu",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Princeton University Library"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/pul_logo_icon.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 100,
+                    "width": 120
+                }
+            ]
         }
     ]
 }

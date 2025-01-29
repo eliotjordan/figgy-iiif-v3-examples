@@ -257,21 +257,32 @@
         }
     ],
     "rights": "http://rightsstatements.org/vocab/CNE/1.0/",
-    "logo": [
-        {
-            "id": "https://figgy-staging.princeton.edu/pul_logo_icon.png",
-            "type": "Image",
-            "format": "image/png",
-            "height": 100,
-            "width": 120
-        }
-    ],
     "thumbnail": [
         {
             "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
             "type": "Image",
             "format": "image/jpeg",
             "height": 150
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://library.princeton.edu",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Princeton University Library"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/pul_logo_icon.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 100,
+                    "width": 120
+                }
+            ]
         }
     ]
 }
