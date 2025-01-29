@@ -157,56 +157,6 @@
     "behavior": [
         "auto-advance"
     ],
-    "posterCanvas": {
-        "type": "Canvas",
-        "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/42791640-9681-41f0-961a-b391d3781f0f",
-        "label": {
-            "eng": [
-                "32101047382484_AssetFront.jpg"
-            ]
-        },
-        "items": [
-            {
-                "type": "AnnotationPage",
-                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/42791640-9681-41f0-961a-b391d3781f0f/annotation_page/89308b82-364b-41ea-8308-357e15704dce",
-                "items": [
-                    {
-                        "type": "Annotation",
-                        "motivation": "painting",
-                        "body": {
-                            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/1000,/0/default.jpg",
-                            "type": "Image",
-                            "height": 1728,
-                            "width": 2592,
-                            "format": "image/jpeg",
-                            "service": [
-                                {
-                                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
-                                    "profile": "http://iiif.io/api/image/2/level2.json",
-                                    "type": "ImageService2"
-                                }
-                            ]
-                        },
-                        "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/42791640-9681-41f0-961a-b391d3781f0f"
-                    }
-                ]
-            }
-        ],
-        "rendering": [
-            {
-                "id": "https://figgy-staging.princeton.edu/downloads/42791640-9681-41f0-961a-b391d3781f0f/file/d12d9d1c-4450-40ea-9078-3df3c5ea3017",
-                "format": "image/jpeg",
-                "type": "Dataset",
-                "label": {
-                    "en": [
-                        "Download the original file"
-                    ]
-                }
-            }
-        ],
-        "width": 2592,
-        "height": 1728
-    },
     "structures": [
         {
             "type": "Range",
