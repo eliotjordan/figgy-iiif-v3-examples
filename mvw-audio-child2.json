@@ -108,18 +108,6 @@
                         ]
                     }
                 ],
-                "rendering": [
-                    {
-                        "id": "https://figgy-staging.princeton.edu/downloads/3b7c6608-7aff-4166-994a-9b580d583964/file/127259af-0c3d-4ab4-89e5-60204ca6c4c6",
-                        "format": "image/jpeg",
-                        "type": "Dataset",
-                        "label": {
-                            "en": [
-                                "Download the original file"
-                            ]
-                        }
-                    }
-                ],
                 "width": 2592,
                 "height": 1728
             },
