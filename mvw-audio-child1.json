@@ -160,14 +160,41 @@
     "structures": [
         {
             "type": "Range",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/range/r4bdf59ab-9803-40dd-b837-33b24b7e38ba",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/range/rd270073a-f29b-490e-b6fc-141d3c3191a7",
             "label": {
                 "eng": [
-                    "Logical"
+                    "32101047382484_1.wav"
                 ]
             },
             "behavior": "top",
-            "items": []
+            "items": [
+                {
+                    "type": "Canvas",
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/8f3594bd-2d6d-4c38-8a9e-453de6f77660#t=0,1.316",
+                    "label": [
+                        "32101047382484_1.wav"
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "Range",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/range/r33435f7d-af50-4c63-ab18-5ffeb5c42fc4",
+            "label": {
+                "eng": [
+                    "32101047382484_2.wav"
+                ]
+            },
+            "behavior": "top",
+            "items": [
+                {
+                    "type": "Canvas",
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/1ac9e2dd-3088-45d8-a2f7-bf7766692b86#t=0,3.833",
+                    "label": [
+                        "32101047382484_2.wav"
+                    ]
+                }
+            ]
         }
     ],
     "seeAlso": [
