@@ -1,7 +1,7 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Collection",
-    "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/afb509eb-fa2e-4145-bc9f-e4b302d1fb3d/manifest",
+    "@id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-parent.json",
     "label": [
         "Interview: Fitas / ERM, Tape 1-2 (A8)"
     ],
