@@ -39,4 +39,4 @@ manifests
 1. Annotations must have an `id` property
   - accompanyingCanvas -> items (AnnotationPage) -> items (Annotation)
   - Canvas[0] -> items (AnnotationPage) -> items (Annotation)
-
+1. structures -> Range -> items -> Canvas elements don't need labels, and they are inorrectly structured.
