@@ -36,3 +36,7 @@ manifests
   - no need for rendering proptery wihin accompanyingCanvas
 1. there is a root level `rendering` property for "Download as PDF". Not needed,
    should be removed.
+1. Annotations must have an `id` property
+  - accompanyingCanvas -> items (AnnotationPage) -> items (Annotation)
+  - Canvas[0] -> items (AnnotationPage) -> items (Annotation)
+

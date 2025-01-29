@@ -84,6 +84,7 @@
                         "items": [
                             {
                                 "type": "Annotation",
+                                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/42791640-9681-41f0-961a-b391d3781f0f/annotation/annotation_id1",
                                 "motivation": "painting",
                                 "body": {
                                     "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/1000,/0/default.jpg",
@@ -114,6 +115,7 @@
                     "items": [
                         {
                             "type": "Annotation",
+                            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/8f3594bd-2d6d-4c38-8a9e-453de6f77660/annotation/annotation_id2",
                             "motivation": "painting",
                             "body": {
                                 "id": "https://figgy-staging.princeton.edu/downloads/8f3594bd-2d6d-4c38-8a9e-453de6f77660/file/a1f99c85-0507-4cb3-a255-74cc57e7df06/stream.m3u8",
