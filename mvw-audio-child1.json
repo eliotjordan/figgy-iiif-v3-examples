@@ -149,7 +149,7 @@
         },
         {
             "type": "Canvas",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/8f3594bd-2d6d-4c38-8a9e-453de6f77660",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/1ac9e2dd-3088-45d8-a2f7-bf7766692b86",
             "label": {
                 "eng": [
                     "32101047382484_2.wav"
@@ -197,11 +197,11 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/585ec858-24ce-4af4-b1df-eb5aa3965ed3/annotation_page/699da5d0-6867-4931-b64c-fc4acd5fcdaa",
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/1ac9e2dd-3088-45d8-a2f7-bf7766692b86/annotation_page/699da5d0-6867-4931-b64c-fc4acd5fcdaa",
                     "items": [
                         {
                             "type": "Annotation",
-                            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/585ec858-24ce-4af4-b1df-eb5aa3965ed3/annotation/annotation_id2",
+                            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/1ac9e2dd-3088-45d8-a2f7-bf7766692b86/annotation/annotation_id2",
                             "motivation": "painting",
                             "body": {
                                 "id": "https://figgy-staging.princeton.edu/downloads/1ac9e2dd-3088-45d8-a2f7-bf7766692b86/file/b01bf756-2b6c-4fc7-967a-32ba1a86118b/stream.m3u8",
@@ -214,7 +214,7 @@
                                     ]
                                 }
                             },
-                            "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/585ec858-24ce-4af4-b1df-eb5aa3965ed3"
+                            "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/1ac9e2dd-3088-45d8-a2f7-bf7766692b86"
                         }
                     ]
                 }
@@ -250,7 +250,7 @@
             "items": [
                 {
                     "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/585ec858-24ce-4af4-b1df-eb5aa3965ed3#t=0,1.316"
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json/canvas/8f3594bd-2d6d-4c38-8a9e-453de6f77660#t=0,1.316"
                 }
             ]
         },
