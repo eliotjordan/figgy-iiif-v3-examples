@@ -119,7 +119,7 @@
                             "motivation": "painting",
                             "body": {
                                 "id": "https://figgy-staging.princeton.edu/downloads/8f3594bd-2d6d-4c38-8a9e-453de6f77660/file/a1f99c85-0507-4cb3-a255-74cc57e7df06/stream.m3u8",
-                                "type": "Audio",
+                                "type": "Sound",
                                 "duration": 1.316,
                                 "format": "application/vnd.apple.mpegurl",
                                 "label": {

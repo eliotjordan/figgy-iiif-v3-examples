@@ -28,6 +28,7 @@ manifests
         }
     ]
     ```
+1. Convert stream annotation type from `Audio` to `Sound`
 1. posterCanvas
   - `posterCanvas` is deprecated
   - an `accompanyingCanvas` property is located inside the soundfile Canvas
