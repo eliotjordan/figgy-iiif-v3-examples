@@ -174,10 +174,7 @@
             "items": [
                 {
                     "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/2078a2b0-00a5-4b9f-ad23-526207b36663#t=0,2.976",
-                    "label": [
-                        "addf8-Alaw-GW.wav"
-                    ]
+                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json/canvas/2078a2b0-00a5-4b9f-ad23-526207b36663#t=0,2.976"
                 }
             ]
         }
