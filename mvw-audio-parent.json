@@ -10,9 +10,7 @@
             "Interview: Fitas / ERM, Tape 1-2 (A8)"
         ]
     },
-    "behavior": [
-        "multi-part"
-    ],
+    "behavior": [ "multi-part" ],
     "metadata": [
         {
             "label": {
@@ -103,13 +101,15 @@
                     "format": "image/jpeg",
                     "height": 133,
                     "width": 200,
-                    "service": {
+                    "service": [
+                      {
                         "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
                         "profile": "http://iiif.io/api/image/2/level2.json",
                         "type": "ImageService2",
                         "height": 133,
                         "width": 200
-                    }
+                      }
+                    ]
                 }
             ]
         },
@@ -143,13 +143,15 @@
             "format": "image/jpeg",
             "height": 133,
             "width": 200,
-            "service": {
+            "service": [
+              {
                 "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
                 "profile": "http://iiif.io/api/image/2/level2.json",
                 "type": "ImageService2",
                 "height": 133,
                 "width": 200
-            }
+              }
+            ]
         }
     ]
 }
