@@ -27,14 +27,13 @@
             }
         }
     ],
-    "rendering": [],
     "items": [
         {
             "type": "Canvas",
             "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc",
             "label": {
                 "eng": [
-                    "32101047382484_1.wav"
+                    "Track 1"
                 ]
             },
             "items": [
@@ -53,7 +52,7 @@
                                 "format": "application/vnd.apple.mpegurl",
                                 "label": {
                                     "eng": [
-                                        "32101047382484_1.wav"
+                                        "Track 1"
                                     ]
                                 }
                             },
@@ -81,7 +80,7 @@
             "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d",
             "label": {
                 "eng": [
-                    "32101047382484_2.wav"
+                    "Track 2"
                 ]
             },
             "items": [
@@ -100,7 +99,7 @@
                                 "format": "application/vnd.apple.mpegurl",
                                 "label": {
                                     "eng": [
-                                        "32101047382484_2.wav"
+                                        "Track 2"
                                     ]
                                 }
                             },
@@ -128,7 +127,7 @@
             "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db",
             "label": {
                 "eng": [
-                    "MOMENTITO.wav"
+                    "Momentito"
                 ]
             },
             "items": [
@@ -147,7 +146,7 @@
                                 "format": "application/vnd.apple.mpegurl",
                                 "label": {
                                     "eng": [
-                                        "MOMENTITO.wav"
+                                        "Momentito"
                                     ]
                                 }
                             },
@@ -174,49 +173,91 @@
     "structures": [
         {
             "type": "Range",
-            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/range/r49d90592-f4a4-429f-8d70-13de80eca9b5",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/r20eeaf87-6a06-4b00-9152-d4bd7b62f1d6",
             "label": {
                 "eng": [
-                    "32101047382484_1.wav"
+                    "2024-01-30"
                 ]
             },
             "behavior": "top",
             "items": [
                 {
-                    "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc#t=0,1.316"
-                }
-            ]
-        },
-        {
-            "type": "Range",
-            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/range/ra3efc636-ad7a-4ea5-959e-6c25f2fb26b1",
-            "label": {
-                "eng": [
-                    "32101047382484_2.wav"
-                ]
-            },
-            "behavior": "top",
-            "items": [
+                    "type": "Range",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/r20aae558-ea2d-4471-b92a-4e8ebd64dc93",
+                    "label": {
+                        "eng": [
+                            "Section 1"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Range",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/r631f25b8-9e34-455f-bbba-8ae0434f581a",
+                            "label": {
+                                "eng": [
+                                    "Track 1"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "type": "Canvas",
+                                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc#t=0,1.316"
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
-                    "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d#t=0,3.833"
-                }
-            ]
-        },
-        {
-            "type": "Range",
-            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/range/r27d0d6b8-0454-4908-a938-cbbd8c717070",
-            "label": {
-                "eng": [
-                    "MOMENTITO.wav"
-                ]
-            },
-            "behavior": "top",
-            "items": [
+                    "type": "Range",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/re12c91a5-baca-4098-b986-66812eb89a3e",
+                    "label": {
+                        "eng": [
+                            "Section 2"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Range",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/ra38840ef-d834-4190-adaf-582bc853beba",
+                            "label": {
+                                "eng": [
+                                    "Track 2"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "type": "Canvas",
+                                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d#t=0,3.833"
+                                }
+                            ]
+                        }
+                    ]
+                },
                 {
-                    "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/playlist.json/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db#t=0,107.651"
+                    "type": "Range",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/rbeb540f3-7bff-480b-b93b-800a82adf88b",
+                    "label": {
+                        "eng": [
+                            "Section 3"
+                        ]
+                    },
+                    "items": [
+                        {
+                            "type": "Range",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/rdadcb1f6-50fe-4195-8a1b-1820bc3f91ba",
+                            "label": {
+                                "eng": [
+                                    "Momentito"
+                                ]
+                            },
+                            "items": [
+                                {
+                                    "type": "Canvas",
+                                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db#t=0,107.651"
+                                }
+                            ]
+                        }
+                    ]
                 }
             ]
         }

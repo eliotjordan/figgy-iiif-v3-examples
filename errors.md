@@ -37,5 +37,9 @@
 1. Annotations must have an `id` property
     - accompanyingCanvas -> items (AnnotationPage) -> items (Annotation)
     - Canvas[0] -> items (AnnotationPage) -> items (Annotation)
-1. structures -> Range -> items -> Canvas elements don't need labels, and they are inorrectly structured.
+1. structures -> Range -> items -> Canvas elements don't need labels, and they are incorrect.
 1. Parent resource in Audio MVW is presentation V2 instead of presentation V3.
+
+### Playlist
+1. Many of the same issues as Audio.
+1. 
