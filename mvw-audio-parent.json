@@ -1,102 +1,149 @@
 {
-    "@context": "http://iiif.io/api/presentation/2/context.json",
-    "@type": "sc:Collection",
-    "@id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-parent.json",
-    "label": [
-        "Interview: Fitas / ERM, Tape 1-2 (A8)"
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
     ],
-    "viewingHint": "multi-part",
+    "type": "Collection",
+    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-parent.json",
+    "label": {
+        "eng": [
+            "Interview: Fitas / ERM, Tape 1-2 (A8)"
+        ]
+    },
+    "behavior": "multi-part",
     "metadata": [
         {
-            "label": "Date Created",
-            "value": [
-                "undated"
-            ]
+            "label": {
+                "eng": [
+                    "Date Created"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "undated"
+                ]
+            }
         },
         {
-            "label": "Extent",
-            "value": [
-                "1 item"
-            ]
+            "label": {
+                "eng": [
+                    "Extent"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "1 item"
+                ]
+            }
         },
         {
-            "label": "Identifier",
-            "value": [
-                "ark:/99999/fk4mk81d0x"
-            ]
+            "label": {
+                "eng": [
+                    "Identifier"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "ark:/99999/fk4mk81d0x"
+                ]
+            }
         },
         {
-            "label": "Title",
-            "value": [
-                "Interview: Fitas / ERM, Tape 1-2 (A8)"
-            ]
+            "label": {
+                "eng": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "Interview: Fitas / ERM, Tape 1-2 (A8)"
+                ]
+            }
         },
         {
-            "label": "Publisher",
-            "value": [
-                "Rodr\u00edguez Monegal, Em\u00edr"
-            ]
+            "label": {
+                "eng": [
+                    "Publisher"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "Rodr\u00edguez Monegal, Em\u00edr"
+                ]
+            }
         },
         {
-            "label": "Container",
-            "value": [
-                "Box 22, Item 8"
-            ]
-        },
-        {
-            "label": "Embargo Date",
-            "value": [
-                ""
-            ]
+            "label": {
+                "eng": [
+                    "Container"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "Box 22, Item 8"
+                ]
+            }
         }
     ],
-    "manifests": [
+    "items": [
         {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@type": "sc:Manifest",
-            "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/2325ed52-bb0b-42a9-9fa5-42c7beb106a4/manifest",
-            "label": [
-                "Interview: Fitas / ERM, Tape 1 (A8)"
-            ],
+            "type": "Manifest",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json",
+            "label": {
+                "eng": [
+                    "Interview: Fitas / ERM, Tape 1 (A8)"
+                ]
+            },
             "thumbnail": {
-                "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+                "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+                "type": "Image",
+                "format": "image/jpeg",
+                "height": 133,
+                "width": 200,
                 "service": {
-                    "@context": "http://iiif.io/api/image/2/context.json",
-                    "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
-                    "profile": "http://iiif.io/api/image/2/level2.json"
+                    "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
+                    "profile": "http://iiif.io/api/image/2/level2.json",
+                    "type": "ImageService2",
+                    "height": 133,
+                    "width": 200
                 }
             }
         },
         {
-            "@context": "http://iiif.io/api/presentation/2/context.json",
-            "@type": "sc:Manifest",
-            "@id": "https://figgy-staging.princeton.edu/concern/scanned_resources/de0e1831-aef6-432e-a973-711fafeec7b0/manifest",
-            "label": [
-                "Interview: Fitas / ERM, Tape 2 (A8)"
-            ]
+            "type": "Manifest",
+            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json",
+            "label": {
+                "eng": [
+                    "Interview: Fitas / ERM, Tape 2 (A8)"
+                ]
+            }
         }
     ],
     "seeAlso": [
         {
-            "@id": "https://figgy-staging.princeton.edu/catalog/afb509eb-fa2e-4145-bc9f-e4b302d1fb3d.jsonld",
+            "id": "https://figgy-staging.princeton.edu/catalog/afb509eb-fa2e-4145-bc9f-e4b302d1fb3d.jsonld",
+            "type": "Dataset",
             "format": "application/ld+json"
         },
         {
-            "@id": "https://findingaids.princeton.edu/catalog/C0652_c0383.xml",
+            "id": "https://findingaids.princeton.edu/catalog/C0652_c0383.xml",
+            "type": "Dataset",
             "format": "text/xml"
         }
     ],
-    "license": "http://rightsstatements.org/vocab/CNE/1.0/",
+    "rights": "http://rightsstatements.org/vocab/NKC/1.0/",
     "thumbnail": {
-        "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+        "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file/full/!200,150/0/default.jpg",
+        "type": "Image",
+        "format": "image/jpeg",
+        "height": 133,
+        "width": 200,
         "service": {
-            "@context": "http://iiif.io/api/image/2/context.json",
-            "@id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
-            "profile": "http://iiif.io/api/image/2/level2.json"
+            "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/df%2F2a%2Ffc%2Fdf2afc4b3fda4ec39ffdb4906f535eed%2Fintermediate_file",
+            "profile": "http://iiif.io/api/image/2/level2.json",
+            "type": "ImageService2",
+            "height": 133,
+            "width": 200
         }
-    },
-    "rendering": {
-        "@id": "http://arks.princeton.edu/ark:/99999/fk4mk81d0x",
-        "format": "text/html"
     }
 }
