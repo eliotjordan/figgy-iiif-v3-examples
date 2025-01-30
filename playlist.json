@@ -1,0 +1,254 @@
+{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "http://iiif.io/api/presentation/3/context.json"
+    ],
+    "type": "Manifest",
+    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest",
+    "label": {
+        "eng": [
+            "V3 Playlist Test"
+        ]
+    },
+    "behavior": [
+        "auto-advance"
+    ],
+    "metadata": [
+        {
+            "label": {
+                "eng": [
+                    "Title"
+                ]
+            },
+            "value": {
+                "eng": [
+                    "V3 Playlist Test"
+                ]
+            }
+        }
+    ],
+    "rendering": [],
+    "items": [
+        {
+            "type": "Canvas",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc",
+            "label": {
+                "eng": [
+                    "32101047382484_1.wav"
+                ]
+            },
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc/annotation_page/93f1323e-07bb-4340-8bda-fd79c85b34ed",
+                    "items": [
+                        {
+                            "type": "Annotation",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc/annotation/1",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://figgy-staging.princeton.edu/downloads/28c2c276-15a3-44f8-b609-304be617df2a/file/6e2c0fdc-2cc1-4a7e-b5df-7a7e536a5065/stream.m3u8?auth_token=5e83529aa42d793573db3609491b6168",
+                                "type": "Sound",
+                                "duration": 1.316,
+                                "format": "application/vnd.apple.mpegurl",
+                                "label": {
+                                    "eng": [
+                                        "32101047382484_1.wav"
+                                    ]
+                                }
+                            },
+                            "target": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/downloads/28c2c276-15a3-44f8-b609-304be617df2a/file/21bb8c76-886f-417b-aa9c-304e36fc9f4a",
+                    "format": "audio/x-wav",
+                    "type": "Dataset",
+                    "label": {
+                        "en": [
+                            "Download the original file"
+                        ]
+                    }
+                }
+            ],
+            "duration": 1.316
+        },
+        {
+            "type": "Canvas",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d",
+            "label": {
+                "eng": [
+                    "32101047382484_2.wav"
+                ]
+            },
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d/annotation_page/dbbc9649-4bdb-4579-aa5c-e023288c4d9f",
+                    "items": [
+                        {
+                            "type": "Annotation",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d/annotation/1",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://figgy-staging.princeton.edu/downloads/04be404f-54cf-4532-be46-1b66b29b0d04/file/90670645-1c94-4c93-9383-766724fef9e4/stream.m3u8?auth_token=5e83529aa42d793573db3609491b6168",
+                                "type": "Sound",
+                                "duration": 3.833,
+                                "format": "application/vnd.apple.mpegurl",
+                                "label": {
+                                    "eng": [
+                                        "32101047382484_2.wav"
+                                    ]
+                                }
+                            },
+                            "target": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/downloads/04be404f-54cf-4532-be46-1b66b29b0d04/file/10a50472-5ade-4aa5-80df-553ac77db949",
+                    "format": "audio/x-wav",
+                    "type": "Dataset",
+                    "label": {
+                        "en": [
+                            "Download the original file"
+                        ]
+                    }
+                }
+            ],
+            "duration": 3.833
+        },
+        {
+            "type": "Canvas",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db",
+            "label": {
+                "eng": [
+                    "MOMENTITO.wav"
+                ]
+            },
+            "items": [
+                {
+                    "type": "AnnotationPage",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db/annotation_page/9a9f94a1-ede1-43c4-870e-dac876bd31a6",
+                    "items": [
+                        {
+                            "type": "Annotation",
+                            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db/annotation/1",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://figgy-staging.princeton.edu/downloads/796814f8-3a65-4c1d-8853-22b45be1c664/file/9136f806-e55b-415e-ac7f-a738586c65a3/stream.m3u8?auth_token=5e83529aa42d793573db3609491b6168",
+                                "type": "Sound",
+                                "duration": 107.651,
+                                "format": "application/vnd.apple.mpegurl",
+                                "label": {
+                                    "eng": [
+                                        "MOMENTITO.wav"
+                                    ]
+                                }
+                            },
+                            "target": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db"
+                        }
+                    ]
+                }
+            ],
+            "rendering": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/downloads/796814f8-3a65-4c1d-8853-22b45be1c664/file/12762be6-4eff-4e48-bf95-0a67c6dcab0b",
+                    "format": "audio/x-wav",
+                    "type": "Dataset",
+                    "label": {
+                        "en": [
+                            "Download the original file"
+                        ]
+                    }
+                }
+            ],
+            "duration": 107.651
+        }
+    ],
+    "structures": [
+        {
+            "type": "Range",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/r49d90592-f4a4-429f-8d70-13de80eca9b5",
+            "label": {
+                "eng": [
+                    "32101047382484_1.wav"
+                ]
+            },
+            "behavior": "top",
+            "items": [
+                {
+                    "type": "Canvas",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/da4156c7-9f8f-49dd-af00-f27affddddbc#t=0,1.316"
+                }
+            ]
+        },
+        {
+            "type": "Range",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/ra3efc636-ad7a-4ea5-959e-6c25f2fb26b1",
+            "label": {
+                "eng": [
+                    "32101047382484_2.wav"
+                ]
+            },
+            "behavior": "top",
+            "items": [
+                {
+                    "type": "Canvas",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/3d518077-99df-44be-b1b5-1e3db5075a0d#t=0,3.833"
+                }
+            ]
+        },
+        {
+            "type": "Range",
+            "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/range/r27d0d6b8-0454-4908-a938-cbbd8c717070",
+            "label": {
+                "eng": [
+                    "MOMENTITO.wav"
+                ]
+            },
+            "behavior": "top",
+            "items": [
+                {
+                    "type": "Canvas",
+                    "id": "https://figgy-staging.princeton.edu/concern/playlists/5c25c0bd-33af-47a0-8322-104aa311478e/manifest/canvas/8f4d1bc4-6726-4d48-9ba8-d56329ebe3db#t=0,107.651",
+                    "label": [
+                        "MOMENTITO.wav"
+                    ]
+                }
+            ]
+        }
+    ],
+    "seeAlso": [
+        {
+            "id": "https://figgy-staging.princeton.edu/catalog/5c25c0bd-33af-47a0-8322-104aa311478e.jsonld",
+            "type": "Dataset",
+            "format": "application/ld+json"
+        }
+    ],
+    "provider": [
+        {
+            "id": "https://library.princeton.edu",
+            "type": "Agent",
+            "label": {
+                "en": [
+                    "Princeton University Library"
+                ]
+            },
+            "logo": [
+                {
+                    "id": "https://figgy-staging.princeton.edu/pul_logo_icon.png",
+                    "type": "Image",
+                    "format": "image/png",
+                    "height": 100,
+                    "width": 120
+                }
+            ]
+        }
+    ]
+}
