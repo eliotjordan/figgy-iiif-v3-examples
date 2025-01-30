@@ -4,7 +4,7 @@
         "http://iiif.io/api/presentation/3/context.json"
     ],
     "type": "Collection",
-    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-parent.json",
+    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-parent.json",
     "label": {
         "eng": [
             "Interview: Fitas / ERM, Tape 1-2 (A8)"
@@ -88,7 +88,7 @@
     "items": [
         {
             "type": "Manifest",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json",
+            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child1.json",
             "label": {
                 "eng": [
                     "Interview: Fitas / ERM, Tape 1 (A8)"
@@ -115,7 +115,7 @@
         },
         {
             "type": "Manifest",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json",
+            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/mvw-audio-child2.json",
             "label": {
                 "eng": [
                     "Interview: Fitas / ERM, Tape 2 (A8)"

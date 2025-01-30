@@ -4,7 +4,7 @@
         "http://iiif.io/api/presentation/3/context.json"
     ],
     "type": "Manifest",
-    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json",
+    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json",
     "label": {
         "eng": [
             "Awesome Recording"
@@ -66,7 +66,7 @@
     "items": [
         {
             "type": "Canvas",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086",
+            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086",
             "label": {
                 "eng": [
                     "MOMENTITO.wav"
@@ -76,15 +76,15 @@
                 "type": "Canvas",
                 "width": 200,
                 "height": 287,
-                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder",
+                "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder",
                 "items": [
                     {
                         "type": "AnnotationPage",
-                        "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1",
+                        "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1",
                         "items": [
                             {
                                 "type": "Annotation",
-                                "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1-image",
+                                "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder/1-image",
                                 "motivation": "painting",
                                 "body": {
                                     "id": "https://iiif-cloud-staging.princeton.edu/iiif/2/07%2F12%2F95%2F071295a5143a422680798164f962e399%2Fintermediate_file/full/1000,/0/default.jpg",
@@ -100,7 +100,7 @@
                                         }
                                     ]
                                 },
-                                "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder"
+                                "target": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/placeholder"
                             }
                         ]
                     }
@@ -109,12 +109,12 @@
             "items": [
                 {
                     "type": "AnnotationPage",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation_page/72a453f8-a535-4eeb-9fc1-49c0d0e6a402",
+                    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation_page/72a453f8-a535-4eeb-9fc1-49c0d0e6a402",
                     "items": [
                         {
                             "type": "Annotation",
                             "motivation": "painting",
-                            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation/1",
+                            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086/annotation/1",
                             "body": {
                                 "id": "https://figgy-staging.princeton.edu/downloads/b1769abd-eeda-4676-b314-865a455f27dd/file/848e2041-2cf7-4a98-902f-76335dd0cf7f/stream.m3u8",
                                 "type": "Sound",
@@ -126,7 +126,7 @@
                                     ]
                                 }
                             },
-                            "target": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086"
+                            "target": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086"
                         }
                     ]
                 }
@@ -149,7 +149,7 @@
     "structures": [
         {
             "type": "Range",
-            "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/range/r776e338b-9591-4990-ae12-aa66b35f4ac4",
+            "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/range/r776e338b-9591-4990-ae12-aa66b35f4ac4",
             "label": {
                 "eng": [
                     "MOMENTITO.wav"
@@ -159,7 +159,7 @@
             "items": [
                 {
                     "type": "Canvas",
-                    "id": "https://raw.githubusercontent.com/eliotjordan/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44"
+                    "id": "https://raw.githubusercontent.com/pulibrary/figgy-iiif-v3-examples/refs/heads/main/simple-audio.json/canvas/bcb995ad-2321-46fc-bd4f-35ea18d15086#t=0,133.44"
                 }
             ]
         }
